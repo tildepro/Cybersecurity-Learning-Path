@@ -21,6 +21,14 @@ I'll be updating the checklist items as I complete them to track my progress and
 
 ---
 
+## Documentation Approach
+
+While I diligently complete each item in this learning path, I aim to document specific labs and concepts that presented unique challenges, offered significant learning opportunities, or where I developed alternative, noteworthy solutions (e.g., solving web challenges without a proxy when possible, creating custom scripts etc...).
+This repository serves as a showcase for these deeper dives and practical applications, rather than a step-by-step walkthrough for every single resource.
+
+
+---
+
 ## My Progress
 
 Here's a snapshot of my current learning journey:
